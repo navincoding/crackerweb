@@ -1,0 +1,372 @@
+.top-poster{
+    background-color: #F85409;
+}
+.navBar ul li{
+    margin-right: 15px;
+}
+.navBar ul li a{
+    color: #7F7D7D;
+    font-weight: bold;
+    font-size: 17px;
+}
+.navBar ul li a:hover{
+    color: #F85409;
+}
+
+.phone-number{
+    color: #313030;
+    font-weight: bold;
+    font-size: 14px;
+}
+.NavBar{
+    padding: 20px 0;
+}
+
+.ico{
+    width: 58px;
+    height: 45px;
+    /* line-height:40px; */
+    transform: rotate(45deg);
+}
+/* 2 */
+.logo{
+    width: 90px;
+}
+.phone{
+    border: 1px solid black;
+
+}
+.img-logo{
+    position: absolute;
+    width: 160px;
+    top: 0;
+    z-index: 999;
+    background-color: white;
+    padding: 0 9px 0 9px;
+    border-radius: 0 0 25px 25px;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;
+}
+
+/* 3 */
+
+.point1{
+    bottom: 70px;
+    left: 10px;
+}
+.w0{
+    width:0%;
+}
+.fixed{
+    position: fixed;
+    z-index: 2;
+}
+
+.tooltip{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    /* color of the tooltip text */
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover {
+    visibility: visible;
+  }
+
+/* 4 */
+.four{
+    /* padding: 50px 0; */
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+.four-a{
+    width: 540px;
+} 
+.four-a img{
+    border-radius: 20px;
+    
+} 
+.four-b{
+    width: 115.69px;
+}
+
+.four-b-head h2{
+    font-size: 50px;
+    color: #F85409;
+}
+.four-b-head p{
+    font-size: 14px;
+}
+.four-b-head button{
+    background-color: #F85409;
+    padding: 8px 35px;
+    color: white;
+    border-radius: 25px;
+}
+.four-b-head button:hover{
+    color: white;
+}
+
+/* 5 */
+.five{
+    /* width: 100%; */
+    justify-content: space-around;
+}
+
+.five-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+.five-box h3{
+    color: #F85409;
+    font-size: 18px;
+}
+.five-box i{
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 50%;
+    background-color: #E9EDF6;
+    color: #F85409;
+    /* margin-right: 10px; */
+}
+.five-head{
+    background-color: #f85509d2;
+}
+
+
+/* 6 */
+.six-img-head{
+    overflow: hidden;
+}
+.six-img-box h3{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+.six-img-box p{
+    font-weight: bold;
+    color: white;
+}
+.six-img-box button{
+    padding: 5px 17px;
+    background-color: #F85409;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.six-a{
+    background-image: url(./image/crackers/bombs.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-a:hover{
+    transform: scale(1.1);
+}
+.six-b{
+    background-image: url(./image/crackers/chakkars.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-b:hover{
+    transform: scale(1.1);
+}
+.six-c{
+    background-image: url(./image/crackers/colourmatches.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-c:hover{
+    transform: scale(1.1);
+}
+.six-aa{
+    background-image: url(./image/crackers/flowerpots.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-aa:hover{
+    transform: scale(1.1);
+}
+.six-ab{
+    background-image: url(./image/crackers/fountain.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-ab:hover{
+    transform: scale(1.1);
+}
+.six-ac{
+    background-image: url(./image/crackers/giftbox.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-ac:hover{
+    transform: scale(1.1);
+}
+.six-ba{
+    background-image: url(./image/crackers/rockets.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-ba:hover{
+    transform: scale(1.1);
+}
+.six-bb{
+    background-image: url(./image/crackers/sparklers.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-bb:hover{
+    transform: scale(1.1);
+}
+.six-bc{
+    background-image: url(./image/crackers/wala.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    transition: all .3s ease;
+}
+.six-bc:hover{
+    transform: scale(1.1);
+}
+.six-btn button{
+    background-color: #ea4a00;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border: none;
+}
+
+
+
+
+/* 7 */
+
+.seven{
+    /* background-color: #ea4a00a9; */
+    /* filter: brightness(90%); */
+    /* background-blend-mode:screen; */
+    color: white;
+    background-image: url(./image/parallax.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 99999px rgba(234, 74, 0, 0.5);
+}
+.seven i{
+    font-size: 30px;
+}
+.seven h2{
+    font-size: 50px;
+    font-weight: 700;
+}
+.seven h5{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/* 8 */
+.eight{
+    margin: 50px 0;
+}
+.eight h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+.eight h2{
+    font-size: 40px;
+    color: #F85409;
+    font-weight: 700;
+}
+.eight p{
+    font-size: 17px;
+}
+.eight button{
+    background-color: #e24f0b;
+    color:white;
+    border: none;
+    padding: 7px 30px;
+    border-radius:20px;
+}
+.eight button:hover{
+    background-color: #ea4a00;
+}
+
+/* 9 */
+
+.nine{
+    background-image: url(./image/footerimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 99999px rgba(234, 74, 0, 0.886);
+    color: white;
+}
+.underline{
+    border-bottom: 2px dotted white;
+    width: 220px
+    
+}
+
+.nine-a ul li{
+    list-style: none;
+    padding-bottom: 10px;
+}
+/* .nine-c h1{
+    border-bottom: 2px dotted white;
+} */
+.nine-c ul li{
+    list-style:square;
+    padding-bottom: 10px;
+}
+.nine-b{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
+
+
+
+
+
+/* media query */
+
+@media only screen and (max-width:768px){
+    .img-logo{
+        width: 120px !important;
+    }
+}
